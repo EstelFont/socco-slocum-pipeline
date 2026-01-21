@@ -1,7 +1,5 @@
 
 ```md
-# CODE_OF_CONDUCT.md
-
 # Code of Conduct
 
 We are committed to providing a friendly, safe, and welcoming environment for everyone,
