@@ -161,4 +161,3 @@ dependencies:
       - lz4==4.4.5
       - pluggy==1.6.0
       - pytest==9.0.2
-prefix: /Users/xnunei/miniconda3/envs/gliderwork
