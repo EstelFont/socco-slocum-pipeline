@@ -63,7 +63,7 @@ glider_devices:
     long_name: Seabird SlocumCTD
     make_model: Seabird SlocumCTD
     factory_calibrated: " "
-    calibration_date: "27 Mar 2014 "
+    calibration_date: "22 Aug 2019 "
     calibration_report: " "
     comment:   " "
   optics:
@@ -80,7 +80,7 @@ glider_devices:
     make: AADI
     model: Optode4831
     serial: '1206'
-    calibration_date: "7 November 2013"
+    calibration_date: "10 September 2019"
 
 
 
@@ -352,11 +352,11 @@ profile_variables:
 
   instrument_ctd:
     comment:    pumped CTD
-    calibration_date:     "15 Nov 2024"
+    calibration_date:     "30 Aug 2019"
     calibration_report:   
     factory_calibrated:  "yes"
     long_name:           Seabird Glider Payload CTD
     make_model:          Seabird GPCTD
     platform:            platform
-    serial_number:       "10056"
+    serial_number:       "9171"
     type:                platform
