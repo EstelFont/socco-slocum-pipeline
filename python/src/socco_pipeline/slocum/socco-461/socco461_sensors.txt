@@ -11,10 +11,8 @@ c_wpt_lon
 sci_water_cond
 sci_water_temp
 sci_water_pressure
-sci_flbbbbv1_fl_sig
-sci_flbbbbv1_bb1_sig
-sci_flbbbbv1_bb2_sig
-sci_bsipar_par
+sci_bb2flsv8_chl_sig
+sci_bb2flsv8_b470_sig
+sci_bb2flsv8_b700_sig
 sci_oxy4_oxygen
 sci_oxy4_saturation
-sci_suna_nitrate_concentration
