@@ -152,6 +152,24 @@ netcdf_variables:
     standard_name: platform_roll_angle
     units:        degrees
 
+  fin:
+      source:  m_fin
+      long_name:    glider fin angle
+      standard_name: platform_fin_angle
+      units:        degrees
+
+  thruster_power:
+      source:  m_thruster_power
+      long_name:    glider thruster power
+      standard_name: platform_thruster_power
+      units:        Watts
+  
+  oil_volume:
+      source:  m_de_oil_vol
+      long_name:    measured oil volume in bladder
+      standard_name: measured oil volume
+      units:        mL
+
   # profile info:
   waypoint_latitude:
     source:  c_wpt_lat
