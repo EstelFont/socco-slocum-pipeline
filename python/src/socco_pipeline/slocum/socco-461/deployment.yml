@@ -7,7 +7,7 @@ metadata:
   contributor_role: Principal Investigator,Senior Research, Postdoc, PhD, PhD, Technicians
   creator_email: isgiddy@gmail.com
   creator_name:  Isabelle Giddy
-  creator_url:   
+  creator_url: ''
   # R: real time. P: provisional
   data_mode: 'P'
   # date_created etc: added automatically
@@ -37,10 +37,10 @@ metadata:
   processing_level: "Data provided as is with no expressed or implied
                      assurance of quality assurance or quality control."
   project: West African Margin
-  project_url: 
+  project_url: '' 
   publisher_email: sarahanne.n@gmail.com
   publisher_name:  Sarah Nicholson
-  publisher_url:   
+  publisher_url: ''
   references:     cproof toolbox URL
   # https://www.nodc.noaa.gov/General/NODC-Archive/seanamelist.txt
   sea_name:   Benguela Current, South Atlantic Ocean
@@ -353,7 +353,7 @@ profile_variables:
   instrument_ctd:
     comment:    pumped CTD
     calibration_date:     "30 Aug 2019"
-    calibration_report:   
+    calibration_report:   " "
     factory_calibrated:  "yes"
     long_name:           Seabird Glider Payload CTD
     make_model:          Seabird GPCTD
