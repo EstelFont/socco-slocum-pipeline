@@ -240,6 +240,19 @@ netcdf_variables:
     long_name:    oxygen concentration
     standard_name: mole_concentration_of_dissolved_molecular_oxygen_in_sea_water
     units:        umol l-1
+  
+  oxygen_temperature:
+    source:  sci_oxy4_temp  
+    long_name:    temperature measured by oxygen sensor
+    standard_name: temperature measured by oxygen sensor
+    units:        Celsius
+
+  oxygen_timestamp:
+    source:  sci_oxy4_timestamp  
+    long_name:    time measured by oxygen sensor
+    standard_name:    time measured by oxygen sensor
+    calendar:      gregorian
+    units:      seconds since 1970-01-01T00:00:00Z
 
 # Nitrogen
   nitrogen_concentration:
